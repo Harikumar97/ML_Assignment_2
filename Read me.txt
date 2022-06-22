@@ -1,0 +1,15 @@
+
+###########################################################################################################
+
+This is the project forlder containing Julia code used for the Assignment 2.
+
+###########################################################################################################
+
+The .jl files can be opened with Pluto, VS Code or Atom 
+
+The code is written to run on data contained on a local machine. 
+
+Note: Use the appropriate filepaths for seamless running of the impemented ML code. 
+
+
+
